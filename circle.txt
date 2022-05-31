@@ -1,0 +1,10 @@
+<div class="cciircle"><p class="para">view project</p></div>
+.cciircle{
+    width: 70px;
+    height: 70px;
+    border-radius: 90px;
+    background: linear-gradient(to top,red,orange);
+}
+.para{
+    padding: 10px;
+}

@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+.spacing{
+    letter-spacing: 5px;
+}
+.transform{
+    text-transform: capitalize;
+    text-decoration: overline;
+    font-weight: bolder;
+}
+.decoration{
+    text-decoration: underline;
+    
+}
+

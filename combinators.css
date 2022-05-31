@@ -1,0 +1,26 @@
+.my-article-1 p {
+    /* decendent selector */
+    color: blue;
+}
+
+.my-article-2 > p {
+    /* > : child selector */
+    color: red;
+}
+
+.my-article-3 .introduction ~ p {
+    color: pink;
+}
+
+.my-article-4 .introduction + p {
+    color: burlywood;
+}
+/*combinators? These are combinations of different css classes (or any other selector)
+
+
+    descendant selector : space => Used to style all the elements of matching selector which lies inside a parent selector
+    child selector : > => Used to select direct child (1st level children) which matches the given selector
+    general sibling selector : ~ => Used to select all the siblings of the matcing element
+    adjacent sibling selector : + => Used to select the adjacent matching element
+
+Text-Overflow*/

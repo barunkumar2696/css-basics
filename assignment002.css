@@ -1,0 +1,103 @@
+.FIRST-CARD{
+    box-shadow: 5px gray;
+    background-color: aqua;
+    margin: 10px;
+    padding:10px;
+    display: inline-block;
+    width: 25%;
+    height: 400px;
+    overflow: hidden;
+cursor: no-drop;
+    border-radius: 10px;
+    text-overflow: ellipsis;
+    box-shadow: 10px gray;
+    /*overflow:hidden,scroll and Auto*/
+    }
+    h4{
+        white-space: nowrap;
+        color: blue;
+        text-overflow: ellipsis;
+        font-size: small;
+    }
+    p{
+     
+    
+     font-size: smaller;
+    text-shadow: 5px 5px 5px gray;
+     /*3rd 5px is for blur*/
+    }
+    .img{
+        width: 100%;
+    }
+    span{
+        padding-right: 90px;
+    }
+    header{
+     color:blue;   
+        background-color: azure;
+        width: 100%;
+        position: fixed;
+        top:auto
+    }
+    button{
+        
+        background-color: blue;
+        color:azure;
+        border-radius: 10px;
+        margin-right: 40px;
+
+    }
+    #btn1{
+background-color: azure;
+color: blue; margin-right: 40px;
+
+
+    }
+    
+    
+    #btn2{
+        background-color: azure;
+        color: blue; 
+        margin-right: 40px; 
+
+    }
+
+    #btn4{
+        background-color: azure;
+        color: blue;  margin-right: 40px;
+
+    }
+    #btn5{
+        background-color: azure;
+        color: blue;  margin-right: 40px;
+
+    }
+    #btn6{
+        background-color: azure;
+        color: blue;  margin-right: 40px;
+
+    }
+    #btn7{
+        background-color: azure;
+        color: blue;  margin-right: 40px;
+
+    }
+    #btn8{
+        background-color: azure;
+        color: blue; margin-right: 40px;
+
+    }
+    #btn3{
+        background-color: azure;
+        color: blue;  margin-right: 40px;
+
+    }
+    .expand{
+        margin-right: 300px;
+    }
+    body{
+    background-image: url(https://image.shutterstock.com/image-photo/butterfly-grass-on-meadow-night-600w-1111729556.jpg);
+    }
+   h2{
+       font-size: large;
+   }
